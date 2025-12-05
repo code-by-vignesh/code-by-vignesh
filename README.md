@@ -248,15 +248,10 @@ My core expertise lies in decoupling the "Trigger" from the "Execution," allowin
 <!--
 ### 📊 GitHub Activity
 
-<div align="center">
-
-<a href="https://github.com/CHANGE_THIS_TO_YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHANGE_THIS_TO_YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANGE_THIS_TO_YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
+<p align="left">
+  <i>(Graphs will appear here once code contributions begin...)</i>
+</p>
+-->
 <br/>
 
 <div align="center">
@@ -264,6 +259,3 @@ My core expertise lies in decoupling the "Trigger" from the "Execution," allowin
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
-
-
--->
